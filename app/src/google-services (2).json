@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735129160210",
+    "project_id": "localiser-arbres-7b11b",
+    "storage_bucket": "localiser-arbres-7b11b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735129160210:android:fa5a06e49ab04171f666cb",
+        "android_client_info": {
+          "package_name": "com.localiserarbres"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxEsN-_hpL_WVPJ-XT3zmNJmEor0dGIKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
